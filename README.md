@@ -1,5 +1,7 @@
-Tagger
+Tap to Open Graph
 ======
+
+[![Tap to Open Graph Tutorial](http://i.imgur.com/raMVVmu.png)](http://www.lifegraphlabs.com/how-to)
 
 Tap your RFID card to post an action to your profile on the Open Graph.
 
