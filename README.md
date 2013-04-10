@@ -1,4 +1,4 @@
-Tap to Open Graph
+RFID Tap to Open Graph
 ======
 
 [![Tap to Open Graph Tutorial](http://i.imgur.com/raMVVmu.png)](http://www.lifegraphlabs.com/how-to)
